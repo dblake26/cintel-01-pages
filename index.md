@@ -6,7 +6,7 @@ My first website using Markdown and GitHub Pages.
 
 Here's a clickable link: [My Github Profile Link](https://github.com/dblake26)
 
-## Images
+## Image
 
 Images look like links except with an exclamation directly in front
 
